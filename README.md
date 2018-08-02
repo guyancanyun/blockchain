@@ -6,4 +6,4 @@
 + [数字钱包](https://github.com/guyancanyun/blockchain/blob/master/wallet.md)
 + [预言机](https://github.com/guyancanyun/blockchain/blob/master/oracle.md)
 + [白皮书](https://github.com/guyancanyun/blockchain/blob/master/whitepaper.md)
-+ [研究报告](https://github.com/guyancanyun/nebublockchainlasic/blob/master/report.md)
++ [研究报告](https://github.com/guyancanyun/blockchain/blob/master/report.md)
